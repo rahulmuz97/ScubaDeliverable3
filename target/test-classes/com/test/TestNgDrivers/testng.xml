@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="PageObjectmodelSuite" parallel="false">
+  <test name="PomTest">
+    <classes>
+      <class name="com.test.PageObjectmodel.TestOrangeHRMLogin"/>
+     </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

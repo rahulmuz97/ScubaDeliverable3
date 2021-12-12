@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="LocatorTestSuite" parallel="false">
+  <test name="TestLocators">
+    <classes>
+      <class name="com.test.locators.TestLocatorID"/>
+      <class name="com.test.locators.TestLocatorsCSSSelectors"/>
+      <class name="com.test.locators.TestLocatorName"/>
+      <class name="com.test.locators.TestLocatorXpath"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

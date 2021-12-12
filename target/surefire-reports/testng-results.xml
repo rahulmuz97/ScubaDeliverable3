@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-12T00:29:50 IST" name="LocatorTestSuite" finished-at="2021-12-12T00:31:05 IST" duration-ms="75432">
+    <groups>
+    </groups>
+    <test started-at="2021-12-12T00:29:50 IST" name="TestLocators" finished-at="2021-12-12T00:31:05 IST" duration-ms="75432">
+      <class name="com.test.locators.TestLocatorXpath">
+        <test-method signature="VerifyLocatorXpath()[pri:0, instance:com.test.locators.TestLocatorXpath@48eb001a]" started-at="2021-12-12T00:30:45 IST" name="VerifyLocatorXpath" finished-at="2021-12-12T00:31:05 IST" duration-ms="20499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLocatorXpath -->
+      </class> <!-- com.test.locators.TestLocatorXpath -->
+      <class name="com.test.locators.TestLocatorName">
+        <test-method signature="VerifyLocatorName()[pri:0, instance:com.test.locators.TestLocatorName@37854b34]" started-at="2021-12-12T00:30:25 IST" name="VerifyLocatorName" finished-at="2021-12-12T00:30:45 IST" duration-ms="19881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLocatorName -->
+      </class> <!-- com.test.locators.TestLocatorName -->
+      <class name="com.test.locators.TestLocatorID">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.locators.TestLocatorID@73809e7]" started-at="2021-12-12T00:29:42 IST" name="setUp" finished-at="2021-12-12T00:29:50 IST" duration-ms="7611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyLocatorID()[pri:0, instance:com.test.locators.TestLocatorID@73809e7]" started-at="2021-12-12T00:29:50 IST" name="VerifyLocatorID" finished-at="2021-12-12T00:30:04 IST" duration-ms="14679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLocatorID -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.locators.TestLocatorID@73809e7]" started-at="2021-12-12T00:31:05 IST" name="tearDown" finished-at="2021-12-12T00:31:06 IST" duration-ms="664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.locators.TestLocatorID -->
+      <class name="com.test.locators.TestLocatorsCSSSelectors">
+        <test-method signature="VerifyLocatorID()[pri:0, instance:com.test.locators.TestLocatorsCSSSelectors@5f14761c]" started-at="2021-12-12T00:30:05 IST" name="VerifyLocatorID" finished-at="2021-12-12T00:30:25 IST" duration-ms="20319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLocatorID -->
+      </class> <!-- com.test.locators.TestLocatorsCSSSelectors -->
+    </test> <!-- TestLocators -->
+  </suite> <!-- LocatorTestSuite -->
+</testng-results>
